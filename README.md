@@ -39,7 +39,7 @@ Welcome to my **Mondelez International Financial Dashboard** project! This dashb
 ---
 
 ## 🔗 Interactive Dashboard
-![Mondelez Dashboard](dashboard.gif)
+![Mondelez Dashboard](Dashboard.gif)
 
 ---
 
